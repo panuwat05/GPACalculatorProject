@@ -1,4 +1,6 @@
-﻿# GPAX Calculator
+GPAXCalculator Project by Panuwat Prasertdee 673450474-0 IS KKU61
+ 
+ # GPAX Calculator
 
 This is a Windows Forms application that calculates the cumulative GPA (GPAX). It allows users to input GPA values and keeps track of the maximum, minimum, and average GPAs. The application includes input validation and a UI to display the results.
 
