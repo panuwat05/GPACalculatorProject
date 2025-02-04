@@ -1,4 +1,6 @@
 GPAXCalculator Project by Panuwat Prasertdee 673450474-0 IS KKU61
+![image](https://github.com/user-attachments/assets/52d3a29d-10d9-4e66-9122-e38821f8cfe5)
+
  
  # GPAX Calculator
 
