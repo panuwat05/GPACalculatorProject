@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\bin\Debug\net8.0-windows\Gpax.exe
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\bin\Debug\net8.0-windows\Gpax.deps.json
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\bin\Debug\net8.0-windows\Gpax.runtimeconfig.json
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\bin\Debug\net8.0-windows\Gpax.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\bin\Debug\net8.0-windows\Gpax.pdb
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\Gpax.Form1.resources
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\Gpax.csproj.GenerateResource.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\Gpax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\Gpax.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\Gpax.AssemblyInfo.cs
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\Gpax.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\Gpax.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\refint\Gpax.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\Gpax.pdb
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\Gpax.genruntimeconfig.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Gpax\obj\Debug\net8.0-windows\ref\Gpax.dll
